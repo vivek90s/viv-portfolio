@@ -64,7 +64,8 @@ button{
       width: 150px;
       margin-top: 2rem;
       color: rgb(22, 22, 22);
-      background-color: rgb(243, 255, 131);
+      background-color: #fbb034;
+      background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
       border-radius: 5px;
       font-family: 'Poppins', sans-serif;
       border: none;
@@ -187,7 +188,8 @@ button{
 .yellow-bar{
     position: absolute;
     height: 80px;
-    background: yellow;
+    background-color: #fbb034;
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);   
     bottom: -40px;
     right: 0;
     width: 80%;
@@ -260,7 +262,8 @@ button{
     padding: 0 2rem 2rem 0;
 }
 .portfolio .portfolio-container .portfolio-right button{
-    background: yellow;
+    background-color: #fbb034;
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
     padding: 10px 20px;
     border-radius: 5px;
     border: none;
@@ -283,7 +286,8 @@ button{
   }
   
   .contact__bar {
-    background: yellow;
+    background-color: #fbb034;
+    background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);     
     height: 80px;
     width: 68%;
     color: #000;
